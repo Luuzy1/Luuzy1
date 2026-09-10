@@ -1,8 +1,8 @@
-# 👨🏻‍💻 [Luiz Almeida]
+# 👨🏻‍💻 Luiz Almeida
 
 **`Matemático & Estudante de Banco de Dados`**
 
-Me chamo [Luiz Almeida], sou estudante de Matemática e tenho grande interesse por tecnologia, programação e dados. Minha formação em Matemática contribui para o desenvolvimento do raciocínio lógico, pensamento analítico e resolução de problemas, enquanto meus estudos em Banco de Dados ampliam meu interesse pela área de tecnologia e informação.
+Me chamo Luiz Almeida, sou estudante de Matemática e tenho grande interesse por tecnologia, programação e dados. Minha formação em Matemática contribui para o desenvolvimento do raciocínio lógico, pensamento analítico e resolução de problemas, enquanto meus estudos em Banco de Dados ampliam meu interesse pela área de tecnologia e informação.
 
 Atualmente, venho aprofundando meus conhecimentos em **Banco de Dados, SQL, Python e programação**, buscando unir conceitos matemáticos e computacionais na construção de soluções eficientes e organizadas.
 
